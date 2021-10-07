@@ -1,5 +1,5 @@
 ### Hi there, I'm Adam! 👋  
-I mainly program in Python, with a little bit of Java and Haskell on the side
+I mainly program in Python, with some Haskell/Ruby/C#/Java on the side
 <!--
 **agray998/agray998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
